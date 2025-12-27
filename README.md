@@ -1,3 +1,9 @@
+![image](https://github.com/mytechnotalent/HD-NN/blob/main/HD-NN.png?raw=true)
+
+## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
+
+<br>
+
 # HD-NN - Heart Disease Neural Network (PyTorch)
 
 A minimal PyTorch model to predict heart disease using the Kaggle "Heart Disease" dataset.
@@ -475,4 +481,5 @@ Sample predictions (first 10):
   9. prob=0.568 → Presence (actual: Presence) ✓
   10. prob=0.673 → Presence (actual: Presence) ✓
 ```
+
 
